@@ -1,0 +1,32 @@
+form{
+	
+	background-color: bisque;
+	padding: 10px 50px;
+	align-items: center;
+	justify-content: center;  
+	
+  }
+  label{
+	  padding: 10px 20px;
+  }
+input{
+	  border: 1px solid gray;
+	  border-radius: 10px;
+	  padding: 10px 80px;
+	  margin: 10px 10px;
+	  display: flex;
+	  align-content: center;
+	  justify-content: center;
+	  
+  }
+
+
+  span{
+    font-size: 15px;
+    padding: 3px;
+    color: red;
+}
+input:invalid ~ input{
+    border: 1px solid red;
+}
+
