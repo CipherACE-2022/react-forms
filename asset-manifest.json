@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CipherACE-2022/react-forms.git/static/css/main.79161675.css",
+    "main.js": "/CipherACE-2022/react-forms.git/static/js/main.903a68e6.js",
+    "index.html": "/CipherACE-2022/react-forms.git/index.html",
+    "main.79161675.css.map": "/CipherACE-2022/react-forms.git/static/css/main.79161675.css.map",
+    "main.903a68e6.js.map": "/CipherACE-2022/react-forms.git/static/js/main.903a68e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79161675.css",
+    "static/js/main.903a68e6.js"
+  ]
+}
